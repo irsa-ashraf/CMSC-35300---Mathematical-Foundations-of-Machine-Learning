@@ -1,1 +1,1 @@
-# CMSC-35300:Mathematical-Foundations-of-Machine-Learning
+# CMSC-35300: Mathematical-Foundations-of-Machine-Learning
