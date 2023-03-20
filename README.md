@@ -11,3 +11,6 @@ Analyse audio features of songs from Spotify and use a non-negative matrix facto
 Data Source:
 * Kaggle (Spotify dataset)
 
+
+Note: The artists.csv and tracks.csv were too large to upload to GitHub. 
+
