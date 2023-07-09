@@ -7,8 +7,11 @@ This repository contains the final project (code + writeup) for the course CMSC3
 ## Project Summary:
 Analyse audio features of songs from Spotify and use a non-negative matrix factorization to cluster songs into various genres
 
-## Matrices and Clusters 
+## Matrices 
 ![nmf_matrices](nmf_matrices.png)
+
+## Clusters 
+![nmf_clusters](nmf_clusters.png)
 
 
 ### Data Source:
